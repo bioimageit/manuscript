@@ -1,0 +1,14 @@
+"NDInfoFile", Version 2.0
+"Description", 
+"StartTime1", 20201211 16:46:12
+"DoTimelapse", TRUE
+"NTimePoints", 20
+"DoStage", FALSE
+"DoWave", FALSE
+"NWavelengths", 0
+"DoZSeries", TRUE
+"NZSteps", 28
+"ZStepSize", 0
+"WaveInFileName", FALSE
+"NEvents", 0
+"EndFile"

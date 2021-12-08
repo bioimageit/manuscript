@@ -1,0 +1,29 @@
+"NDInfoFile", Version 2.0
+"Description", filename notset
+nglass 1.52
+nmedium 1.35
+Wavelength 488
+NPoints 11
+point 0  - depth = 300 , alpha = 63.1550051347652
+point 1  - depth = 277.777777777778 , alpha = 63.2409074614299
+point 2  - depth = 255.555555555556 , alpha = 63.35045705689
+point 3  - depth = 233.333333333333 , alpha = 63.4932446306087
+point 4  - depth = 211.111111111111 , alpha = 63.6842977545182
+point 5  - depth = 188.888888888889 , alpha = 63.94828058528
+point 6  - depth = 166.666666666667 , alpha = 64.328081340748
+point 7  - depth = 144.444444444444 , alpha = 64.9040444012943
+point 8  - depth = 122.222222222222 , alpha = 65.8426595522866
+point 9  - depth = 100 , alpha = 67.5441077958318
+
+"StartTime1", 20201202 09:55:18
+"DoTimelapse", TRUE
+"NTimePoints", 50
+"DoStage", FALSE
+"DoWave", FALSE
+"NWavelengths", 0
+"DoZSeries", TRUE
+"NZSteps", 11
+"ZStepSize", 1
+"WaveInFileName", FALSE
+"NEvents", 0
+"EndFile"
